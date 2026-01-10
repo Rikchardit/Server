@@ -1,0 +1,341 @@
+[04:23:30] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.18.2
+[04:23:30] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.10
+[04:23:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:23:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[04:23:37] [main/INFO]: Loaded 1461 recipes
+[04:23:37] [main/INFO]: Loaded 1574 advancements
+[04:23:37] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[04:23:37] [Server thread/INFO]: Loading properties
+[04:23:37] [Server thread/INFO]: Default game type: SURVIVAL
+[04:23:37] [Server thread/INFO]: Generating keypair
+[04:23:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:23:37] [Server thread/INFO]: Using epoll channel type
+[04:23:37] [Server thread/INFO]: Preparing level "world"
+[04:23:38] [Server thread/INFO]: Loading 0 persistent chunks...
+[04:23:38] [Server thread/INFO]: Preparing spawn area: 100%
+[04:23:38] [Server thread/INFO]: Time elapsed: 13 ms
+[04:23:38] [Server thread/INFO]: Done (0.312s)! For help, type "help"
+[04:24:03] [User Authenticator #1/INFO]: UUID of player oOMiluOo is 314952dd-48a2-46a5-a3cd-79c6780a5356
+[04:24:04] [Server thread/INFO]: oOMiluOo[/127.68.78.15:34719] logged in with entity id 65 at (490.6987890051998, 63.0, 139.54578739682373)
+[04:24:04] [Server thread/INFO]: oOMiluOo joined the game
+[04:25:59] [User Authenticator #2/INFO]: UUID of player R0MDK is 5579493a-da40-4eb6-8af6-e66bf3b2174b
+[04:26:00] [Server thread/INFO]: R0MDK[/127.13.100.7:44879] logged in with entity id 645 at (516.209861148151, 64.0, 113.14008438742265)
+[04:26:00] [Server thread/INFO]: R0MDK joined the game
+[04:26:15] [Server thread/INFO]: <R0MDK> y esa skin
+[04:26:28] [Server thread/INFO]: <oOMiluOo> soy un panda
+[04:26:32] [Server thread/INFO]: <R0MDK> banco
+[04:26:40] [Server thread/INFO]: <R0MDK> no mechies
+[04:26:46] [Server thread/INFO]: <R0MDK> pq necesito la madera
+[04:26:51] [Server thread/INFO]: <oOMiluOo> hay banda
+[04:26:56] [Server thread/INFO]: <R0MDK> yo quiero toda
+[04:26:59] [Server thread/INFO]: <oOMiluOo> ára q queres
+[04:27:05] [Server thread/INFO]: <R0MDK> pq si
+[04:27:18] [Server thread/INFO]: <oOMiluOo> veni
+[04:28:06] [Server thread/INFO]: <R0MDK> te pinto aplanar tmb
+[04:28:14] [Server thread/INFO]: <oOMiluOo> si
+[04:28:17] [Server thread/INFO]: <R0MDK> por fin
+[04:28:22] [Server thread/INFO]: <oOMiluOo> para usar esta parte
+[04:28:28] [Server thread/INFO]: <R0MDK> ahora aplanas todo
+[04:28:42] [Server thread/INFO]: <R0MDK> y los arboles
+[04:28:43] [Server thread/INFO]: <R0MDK> picalos
+[04:28:59] [Server thread/INFO]: <oOMiluOo> hace vos los arboles
+[04:29:03] [Server thread/INFO]: <oOMiluOo> oa q queres
+[04:29:09] [Server thread/INFO]: <R0MDK> pa hacer cosas
+[04:29:15] [Server thread/INFO]: <oOMiluOo> q
+[04:29:18] [Server thread/INFO]: <R0MDK> ya veras
+[04:29:25] [Server thread/INFO]: <R0MDK> quiero hacer 2 cosas
+[04:29:30] [Server thread/INFO]: <R0MDK> con esa madera
+[04:29:32] [Server thread/INFO]: <R0MDK> tengo una re idea
+[04:30:18] [Server thread/INFO]: <oOMiluOo> no se xq el mouse anda re lento, el de la note
+[04:30:24] [Server thread/INFO]: <R0MDK> y el mio anda raro tmb
+[04:33:02] [Server thread/INFO]: <oOMiluOo> en los cofre tenes madera
+[04:33:20] [Server thread/INFO]: <R0MDK> si ya se
+[04:33:21] [Server thread/INFO]: <R0MDK> quiero mas
+[04:33:30] [Server thread/INFO]: <oOMiluOo> pero los de abajo
+[04:33:54] [Server thread/INFO]: <oOMiluOo> me robaste mis hojas?
+[04:33:57] [Server thread/INFO]: <oOMiluOo> .-.
+[04:33:58] [Server thread/INFO]: <R0MDK> no
+[04:34:15] [Server thread/INFO]: <oOMiluOo> mis papeles loco
+[04:34:21] [Server thread/INFO]: <R0MDK> eu no tengo nada
+[04:37:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=555, y=73, z=129} class_2338{x=555, y=67, z=130}
+[04:38:18] [Server thread/INFO]: <oOMiluOo> mim
+[04:38:30] [Server thread/INFO]: <oOMiluOo> dale
+[04:38:32] [Server thread/INFO]: <R0MDK> *Le ase el amor*
+[04:38:43] [Server thread/INFO]: <R0MDK> que rico
+[04:38:59] [Server thread/INFO]: <R0MDK> me desubique?
+[04:39:11] [Server thread/INFO]: <oOMiluOo> SI
+[04:39:14] [Server thread/INFO]: <R0MDK> che bonita
+[04:39:18] [Server thread/INFO]: <R0MDK> me ayudas aplanar
+[04:39:21] [Server thread/INFO]: <R0MDK> asi terminamos mas rapido
+[04:39:23] [Server thread/INFO]: <oOMiluOo> no
+[04:39:26] [Server thread/INFO]: <R0MDK> dale amor
+[04:40:05] [Server thread/INFO]: <R0MDK> epa
+[04:40:07] [Server thread/INFO]: <R0MDK> pa donde pateaste
+[04:40:16] [Server thread/INFO]: <R0MDK> veni ayudame
+[04:40:19] [Server thread/INFO]: <oOMiluOo> no
+[04:40:22] [Server thread/INFO]: <R0MDK> daleee
+[04:40:42] [Server thread/INFO]: [R0MDK: Teleported oOMiluOo to R0MDK]
+[04:40:44] [Server thread/INFO]: <R0MDK> dale
+[04:40:51] [Server thread/INFO]: <R0MDK> dale
+[04:40:52] [Server thread/INFO]: [R0MDK: Teleported oOMiluOo to R0MDK]
+[04:40:54] [Server thread/INFO]: <R0MDK> dale
+[04:40:56] [Server thread/INFO]: <R0MDK> mala
+[04:43:16] [Server thread/INFO]: Unknown item component 'minecraft:'
+[04:43:16] [Server thread/INFO]: ...ond_sword[{Enchantments:[{id:"minecraft:sharpness",lvl:100}]}]<--[HERE]
+[04:43:21] [Server thread/INFO]: Unknown item component 'minecraft:'
+[04:43:21] [Server thread/INFO]: ...ond_sword[{Enchantments:[{id:"minecraft:sharpness",lvl:100}]}]<--[HERE]
+[04:43:22] [Server thread/INFO]: Unknown item component 'minecraft:'
+[04:43:22] [Server thread/INFO]: ...ond_sword[{Enchantments:[{id:"minecraft:sharpness",lvl:100}]}]<--[HERE]
+[04:44:12] [Server thread/INFO]: <R0MDK> a
+[04:44:39] [Server thread/INFO]: <oOMiluOo> b
+[04:45:10] [Server thread/INFO]: Unknown item component 'minecraft:'
+[04:45:10] [Server thread/INFO]: ...nd_shovel[{Enchantments:[{id:"minecraft:efficiency",lvl:100}]}]give enchant R0MDK efficency 5<--[HERE]
+[04:45:13] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[04:45:13] [Server thread/INFO]: asdsadsa<--[HERE]
+[04:45:16] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[04:45:16] [Server thread/INFO]: asdasdsa<--[HERE]
+[04:45:59] [Server thread/INFO]: 100 is higher than the maximum level of 5 supported by that enchantment
+[04:46:04] [Server thread/INFO]: Applied enchantment Efficiency V to R0MDK's item
+[04:46:34] [Server thread/INFO]: <oOMiluOo> anda de tu lado
+[04:46:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=560, y=63, z=101} class_2338{x=561, y=63, z=101}
+[04:46:46] [Server thread/INFO]: [R0MDK: Removed 1298 item(s) from player R0MDK]
+[04:46:46] [Server thread/INFO]: <oOMiluOo> >:(
+[04:46:48] [Server thread/INFO]: <R0MDK> NOOOO
+[04:46:49] [Server thread/INFO]: <R0MDK> ASJDJSADJASDJSA
+[04:47:00] [Server thread/INFO]: <oOMiluOo> dame una pala
+[04:47:14] [Server thread/INFO]: <R0MDK> me borre todo
+[04:47:17] [Server thread/INFO]: <R0MDK> soy una verga
+[04:47:27] [Server thread/INFO]: Set R0MDK's game mode to Creative Mode
+[04:47:34] [Server thread/INFO]: <oOMiluOo> de q
+[04:48:01] [Server thread/INFO]: <R0MDK> del inventario pero ahi lo arregle
+[04:48:08] [Server thread/INFO]: Set R0MDK's game mode to Survival Mode
+[04:48:28] [Server thread/INFO]: Can't find element 'minecraft:efficency' of type 'minecraft:enchantment'
+[04:48:28] [Server thread/INFO]: ...:efficency 5<--[HERE]
+[04:48:34] [Server thread/INFO]: Applied enchantment Efficiency V to R0MDK's item
+[04:48:39] [Server thread/INFO]: 5 is higher than the maximum level of 3 supported by that enchantment
+[04:48:52] [Server thread/INFO]: Applied enchantment Unbreaking III to R0MDK's item
+[04:49:36] [Server thread/INFO]: <oOMiluOo> veni
+[04:49:58] [Server thread/INFO]: <R0MDK> voy
+[04:50:11] [Server thread/INFO]: <R0MDK> *Le ase el amor*
+[04:50:35] [Server thread/INFO]: Applied enchantment Efficiency V to R0MDK's item
+[04:51:02] [Server thread/INFO]: <R0MDK> amor
+[04:51:05] [Server thread/INFO]: <R0MDK> movete dale
+[04:51:11] [Server thread/INFO]: <R0MDK> veni aplanar
+[04:53:38] [Server thread/INFO]: <R0MDK> de arena amor
+[04:53:40] [Server thread/INFO]: <R0MDK> crece mas rapido
+[04:54:05] [Server thread/INFO]: <R0MDK> siempre de arena
+[04:54:10] [Server thread/INFO]: <oOMiluOo> dsp
+[04:54:19] [Server thread/INFO]: <R0MDK> no lo haces ma
+[04:54:21] [Server thread/INFO]: <oOMiluOo> dame una pala
+[04:54:28] [Server thread/INFO]: <R0MDK> y hacetela
+[04:54:37] [Server thread/INFO]: <oOMiluOo> dale encantame una
+[04:54:43] [Server thread/INFO]: <R0MDK> Y PERO ENCANTATELA VOS
+[04:54:55] [Server thread/INFO]: <R0MDK> tengo que resolver a cada rato
+[04:54:56] [Server thread/INFO]: <oOMiluOo> ´para q tengo novio
+[04:55:29] [Server thread/INFO]: <R0MDK> donde me dejaste el lapis
+[04:55:38] [Server thread/INFO]: <oOMiluOo> no toq nada
+[04:55:43] [Server thread/INFO]: <R0MDK> si
+[04:55:45] [Server thread/INFO]: <R0MDK> absajo estaba
+[04:55:51] [Server thread/INFO]: <R0MDK> te voy a meter un dedo
+[04:55:52] [Server thread/INFO]: <oOMiluOo> no
+[04:55:53] [Server thread/INFO]: <R0MDK> avisada
+[04:56:13] [Server thread/INFO]: <R0MDK> ahi tenes
+[04:56:54] [Server thread/INFO]: <R0MDK> DJSAAJDJSA
+[04:57:36] [Server thread/INFO]: <R0MDK> che
+[04:57:38] [Server thread/INFO]: <R0MDK> me vernis ayudar
+[04:57:40] [Server thread/INFO]: <R0MDK> asi termino
+[04:57:50] [Server thread/INFO]: <R0MDK> y hago mi megra proyecto de novio
+[04:59:06] [Server thread/INFO]: Set R0MDK's game mode to Creative Mode
+[04:59:08] [Server thread/INFO]: <oOMiluOo> estas en creativo?
+[05:00:27] [Server thread/INFO]: <oOMiluOo> hacete
+[05:00:31] [Server thread/INFO]: <R0MDK> e
+[05:00:52] [Server thread/INFO]: No player was found
+[05:01:01] [Server thread/INFO]: Set R0MDK's game mode to Survival Mode
+[05:01:53] [Server thread/INFO]: <R0MDK> Qque paso
+[05:02:20] [Server thread/INFO]: R0MDK has made the advancement [Not Today, Thank You]
+[05:02:35] [Server thread/INFO]: <oOMiluOo> zzzz
+[05:02:39] [Server thread/INFO]: <R0MDK> hacete que
+[05:02:48] [Server thread/INFO]: <oOMiluOo> q si estas en creativo
+[05:02:53] [Server thread/INFO]: <R0MDK> aaaaaaaaaa
+[05:03:09] [Server thread/INFO]: <oOMiluOo> zzzzzzzzz
+[05:03:11] [Server thread/INFO]: <R0MDK> por que perdi cosas cuando hice clear
+[05:03:19] [Server thread/INFO]: <R0MDK> y no voy a ir a buscar ese disco de nuevo
+[05:03:30] [Server thread/INFO]: <oOMiluOo> y pero para aplanar bobi
+[05:03:34] [Server thread/INFO]: <R0MDK> na
+[05:03:37] [Server thread/INFO]: <R0MDK> ni en pedo
+[05:03:40] [Server thread/INFO]: <R0MDK> aplano en survival yo
+[05:03:45] [Server thread/INFO]: <oOMiluOo> dale veni
+[05:03:51] [Server thread/INFO]: <oOMiluOo> q te tengo q manda carta
+[05:03:58] [Server thread/INFO]: <R0MDK> un beso mandame
+[05:04:56] [Server thread/INFO]: <R0MDK> aca
+[05:04:58] [Server thread/INFO]: <R0MDK> decime
+[05:05:02] [Server thread/INFO]: <oOMiluOo> q
+[05:05:07] [Server thread/INFO]: <R0MDK> que queres hacer
+[05:05:10] [Server thread/INFO]: <R0MDK> hasta donde
+[05:05:23] [Server thread/INFO]: <R0MDK> cual es tu espacio
+[05:05:25] [Server thread/INFO]: <oOMiluOo> no no se, quiero hacer algo tipo pueblito
+[05:05:31] [Server thread/INFO]: <oOMiluOo> tranqui
+[05:05:35] [Server thread/INFO]: <R0MDK> tonces me voy pa otro lado
+[05:05:35] [Server thread/INFO]: <oOMiluOo> hace normal vos
+[05:05:38] [Server thread/INFO]: <oOMiluOo> no
+[05:05:44] [Server thread/INFO]: <R0MDK> ya me fui
+[05:05:47] [Server thread/INFO]: <oOMiluOo> no
+[05:05:52] [Server thread/INFO]: <oOMiluOo> veni
+[05:05:52] [Server thread/INFO]: <R0MDK> aca sera
+[05:05:56] [Server thread/INFO]: <oOMiluOo> dale
+[05:05:58] [Server thread/INFO]: <R0MDK> ahora hacer la granja automatica
+[05:06:10] [Server thread/INFO]: <oOMiluOo> veni te digo
+[05:06:58] [Server thread/INFO]: <R0MDK> dame de comer
+[05:07:15] [Server thread/INFO]: <R0MDK> como toda mujer
+[05:07:43] [Server thread/INFO]: <oOMiluOo> hasta aca uso yo
+[05:08:26] [Server thread/INFO]: <R0MDK> has tadonde
+[05:08:28] [Server thread/INFO]: <R0MDK> marcame
+[05:08:40] [Server thread/INFO]: <R0MDK> y yo de aca
+[05:08:42] [Server thread/INFO]: <R0MDK> pa la
+[05:09:19] [Server thread/INFO]: <R0MDK> fuera de mi propiedad nevercraker
+[05:09:29] [Server thread/INFO]: <oOMiluOo> ah con q esas
+[05:09:31] [Server thread/INFO]: <oOMiluOo> ok
+[05:09:47] [Server thread/INFO]: <R0MDK> ci
+[05:17:30] [Server thread/INFO]: R0MDK was slain by Spider
+[05:17:55] [Server thread/INFO]: <R0MDK> che
+[05:17:59] [Server thread/INFO]: <oOMiluOo> q
+[05:18:03] [Server thread/INFO]: <R0MDK> a noniar
+[05:18:08] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
+[05:18:08] [Server thread/INFO]: oOMiluOo left the game
+[05:18:24] [User Authenticator #3/INFO]: UUID of player oOMiluOo is 314952dd-48a2-46a5-a3cd-79c6780a5356
+[05:18:25] [Server thread/INFO]: oOMiluOo[/127.68.78.15:43671] logged in with entity id 14610 at (421.0351110539963, -28.0, 132.95986128432972)
+[05:18:25] [Server thread/INFO]: oOMiluOo joined the game
+[05:18:28] [Server thread/INFO]: <R0MDK> se salia
+[05:18:29] [Server thread/INFO]: <R0MDK> era yo
+[05:18:32] [Server thread/INFO]: <oOMiluOo> listo?}
+[05:18:40] [Server thread/INFO]: <R0MDK> si
+[05:18:41] [Server thread/INFO]: <R0MDK> que te pasa
+[05:18:49] [Server thread/INFO]: <oOMiluOo> estoy minando
+[05:18:52] [Server thread/INFO]: <R0MDK> ah
+[05:18:54] [Server thread/INFO]: <oOMiluOo> si me corriste
+[05:18:58] [Server thread/INFO]: <R0MDK> JSADJSADJSA
+[05:19:00] [Server thread/INFO]: <R0MDK> era joda
+[05:19:04] [Server thread/INFO]: <oOMiluOo> no me rio
+[05:19:09] [Server thread/INFO]: <R0MDK> bue amor
+[05:19:14] [Server thread/INFO]: <oOMiluOo> triste
+[05:19:16] [Server thread/INFO]: <oOMiluOo> echada
+[05:19:34] [Server thread/INFO]: <R0MDK> dale veni
+[05:19:39] [Server thread/INFO]: <oOMiluOo> no
+[05:19:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=549, y=63, z=114}
+[05:21:03] [Server thread/INFO]: <R0MDK> dalee
+[05:22:55] [Server thread/INFO]: <oOMiluOo> me haces tp?
+[05:23:01] [Server thread/INFO]: <R0MDK> ah viste
+[05:23:10] [Server thread/INFO]: [R0MDK: Teleported oOMiluOo to R0MDK]
+[05:23:19] [Server thread/INFO]: <R0MDK> alimentame
+[05:24:09] [Server thread/INFO]: <oOMiluOo> dame lo q juntaste
+[05:24:13] [Server thread/INFO]: <R0MDK> te lo tire
+[05:24:16] [Server thread/INFO]: <oOMiluOo> oka
+[05:25:52] [Server thread/INFO]: <R0MDK> amor
+[05:25:56] [Server thread/INFO]: <R0MDK> hay hierro arriba
+[05:26:08] [Server thread/INFO]: <oOMiluOo> si
+[05:27:14] [Server thread/INFO]: <oOMiluOo> bueno, mientras espero las papas te cuento
+[05:27:18] [Server thread/INFO]: <R0MDK> dale
+[05:27:20] [Server thread/INFO]: <R0MDK> mandame por coso
+[05:27:25] [Server thread/INFO]: <oOMiluOo> resulta ser que hoy
+[05:27:28] [Server thread/INFO]: <oOMiluOo> coso q
+[05:27:36] [Server thread/INFO]: <R0MDK> wachap
+[05:27:37] [Server thread/INFO]: <R0MDK> mas facil de leer
+[05:27:38] [Server thread/INFO]: <oOMiluOo> na
+[05:27:40] [Server thread/INFO]: <R0MDK> meno
+[05:27:51] [Server thread/INFO]: <oOMiluOo> me di cuenta q mi viejo no me quiere
+[05:27:54] [Server thread/INFO]: <oOMiluOo> basicamente
+[05:28:00] [Server thread/INFO]: <oOMiluOo> o me quiere pero no me ama
+[05:28:43] [Server thread/INFO]: <R0MDK> si
+[05:28:59] [Server thread/INFO]: <oOMiluOo> en el momento fue raro, me puse triste, pero ahora como q lo asimile mejor
+[05:29:16] [Server thread/INFO]: <oOMiluOo> es raro, creo q por llamada seria mejor explicarme
+[05:29:19] [Server thread/INFO]: <R0MDK> SI
+[05:29:22] [Server thread/INFO]: <R0MDK> si
+[05:29:43] [Server thread/INFO]: <oOMiluOo> pero con mi pap yo no puedo hablar q le molesta, no puedo respirar que le molesta
+[05:29:47] [Server thread/INFO]: <oOMiluOo> ectetcetc
+[05:30:05] [Server thread/INFO]: <oOMiluOo> y hoy paso una situacion q fue como fua loco
+[05:30:26] [Server thread/INFO]: <oOMiluOo> y obvio estuve divagando en chat gpt
+[05:30:48] [Server thread/INFO]: <oOMiluOo> si bien yo se que debo ir a psico y todo, pero me ayuda a clarar bastante algunas cuestiones
+[05:31:43] [Server thread/INFO]: <oOMiluOo> me dio un calambre en la espalda
+[05:31:47] [Server thread/INFO]: <R0MDK> estas vieja
+[05:31:55] [Server thread/INFO]: <oOMiluOo> tsi
+[05:31:59] [Server thread/INFO]: <oOMiluOo> venidormir
+[05:32:03] [Server thread/INFO]: <oOMiluOo> bueno y eso
+[05:32:12] [Server thread/INFO]: <R0MDK> salgo y entro
+[05:32:13] [Server thread/INFO]: R0MDK lost connection: Disconnected
+[05:32:13] [Server thread/INFO]: R0MDK left the game
+[05:32:21] [User Authenticator #4/INFO]: UUID of player R0MDK is 5579493a-da40-4eb6-8af6-e66bf3b2174b
+[05:32:22] [Server thread/INFO]: R0MDK[/127.13.100.7:34269] logged in with entity id 17002 at (540.0114936958115, 67.0, 127.07499998807907)
+[05:32:22] [Server thread/INFO]: R0MDK joined the game
+[05:32:26] [Server thread/INFO]: <R0MDK> si entiendo igual
+[05:32:29] [Server thread/INFO]: <R0MDK> despues en llamada explayate
+[05:32:34] [Server thread/INFO]: <R0MDK> me matas los mobs de aca amor
+[05:32:43] [Server thread/INFO]: <R0MDK> que tengo una araña y un creemer
+[05:32:57] [Server thread/INFO]: <R0MDK> ta esta
+[05:33:08] [Server thread/INFO]: <R0MDK> me alumbras
+[05:33:10] [Server thread/INFO]: <oOMiluOo> no veia
+[05:33:12] [Server thread/INFO]: <R0MDK> tengo que hacer granja de carbon
+[05:34:19] [Server thread/INFO]: <oOMiluOo> no tengo mas
+[05:34:22] [Server thread/INFO]: <R0MDK> tranca
+[05:34:26] [Server thread/INFO]: <R0MDK> despues ponemos eso lindo
+[05:36:52] [Server thread/INFO]: <R0MDK> vos paz
+[05:37:06] [Server thread/INFO]: <oOMiluOo> lo intento
+[05:41:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=539, y=62, z=133} class_2338{x=539, y=62, z=134}
+[05:43:06] [Server thread/INFO]: <R0MDK> y que onda
+[05:43:07] [Server thread/INFO]: <R0MDK> que haces amor
+[05:43:18] [Server thread/INFO]: <oOMiluOo> kk
+[05:43:39] [Server thread/INFO]: <oOMiluOo> nada
+[05:43:43] [Server thread/INFO]: <oOMiluOo> me dio sueño ya
+[05:43:48] [Server thread/INFO]: <R0MDK> estas bieja
+[05:44:06] [Server thread/INFO]: <oOMiluOo> zzzzzzzzzzzzzzzzzzzzz
+[05:44:09] [Server thread/INFO]: <R0MDK> adivina
+[05:44:12] [Server thread/INFO]: <R0MDK> que estoy haciendo
+[05:44:18] [Server thread/INFO]: <oOMiluOo> cagada
+[05:44:22] [Server thread/INFO]: <oOMiluOo> veni dormir
+[05:44:22] [Server thread/INFO]: <R0MDK> maso
+[05:44:34] [Server thread/INFO]: <oOMiluOo> granja de carbon dijiste
+[05:44:39] [Server thread/INFO]: <R0MDK> ademas
+[05:44:43] [Server thread/INFO]: <oOMiluOo> no se
+[05:44:45] [Server thread/INFO]: <oOMiluOo> veni dale
+[05:45:39] [Server thread/INFO]: <oOMiluOo> zzzzzzZZZZZ
+[05:46:19] [User Authenticator #5/INFO]: UUID of player R0MDK is 5579493a-da40-4eb6-8af6-e66bf3b2174b
+[05:46:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 56117ms or 1122 ticks behind
+[05:46:36] [Server thread/INFO]: oOMiluOo lost connection: Disconnected
+[05:46:36] [Server thread/INFO]: oOMiluOo left the game
+[05:46:36] [Server thread/INFO]: R0MDK lost connection: Disconnected
+[05:46:36] [Server thread/INFO]: R0MDK left the game
+[05:46:36] [Server thread/INFO]: R0MDK[/127.13.100.7:36373] logged in with entity id 19256 at (472.5, 64.5625, 126.5)
+[05:46:36] [Server thread/INFO]: R0MDK joined the game
+[05:46:47] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[05:46:47] [Server thread/INFO]: <--[HERE]
+[05:50:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=530, y=62, z=130} class_2338{x=530, y=62, z=133}
+[05:50:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=530, y=62, z=130} class_2338{x=530, y=62, z=131}
+[05:50:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=534, y=61, z=116} class_2338{x=541, y=62, z=134}
+[05:55:03] [Server thread/INFO]: [R0MDK: Set own game mode to Creative Mode]
+[05:55:16] [Server thread/INFO]: [R0MDK: Set the time to 13000]
+[05:55:50] [Server thread/INFO]: R0MDK has made the advancement [Hot Stuff]
+[05:55:55] [Server thread/INFO]: Villager class_1646['Villager'/20725, l='ServerLevel[world]', x=520.44, y=63.60, z=139.86] died, message: 'Villager tried to swim in lava'
+[05:56:37] [Server thread/INFO]: Villager class_1646['Villager'/20720, l='ServerLevel[world]', x=466.12, y=64.00, z=121.00] died, message: 'Villager burned to death'
+[05:56:40] [Server thread/INFO]: Villager class_1646['Mason'/20721, l='ServerLevel[world]', x=470.61, y=64.00, z=122.37] died, message: 'Mason burned to death'
+[05:57:32] [Server thread/INFO]: [R0MDK: Set the time to 1000]
+[05:58:23] [Server thread/INFO]: [R0MDK: Set own game mode to Survival Mode]
+[06:00:14] [Server thread/INFO]: [R0MDK: Set own game mode to Creative Mode]
+[06:05:53] [Server thread/INFO]: [R0MDK: Set own game mode to Survival Mode]
+[06:07:46] [Server thread/INFO]: R0MDK lost connection: Disconnected
+[06:07:46] [Server thread/INFO]: R0MDK left the game
+[06:07:50] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[06:07:50] [Server thread/INFO]: STOP<--[HERE]
+[06:07:52] [Server thread/INFO]: Stopping the server
+[06:07:52] [Server thread/INFO]: Stopping server
+[06:07:52] [Server thread/INFO]: Saving players
+[06:07:52] [Server thread/INFO]: Saving worlds
+[06:07:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:07:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:07:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
